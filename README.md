@@ -1,6 +1,6 @@
 CRYPTO PRICE TRACKER
 
-https://glistening-paprenjak-fe34e5.netlify.app
+https://cryptotrackerbasic.netlify.app
 
 - Crypto currency price tracker for those who wants to invest.
 
